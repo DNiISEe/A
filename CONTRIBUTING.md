@@ -1,7 +1,7 @@
-# Contributing
+# Como contribuir
 
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+Todas as contribuições são bem-vindas, incluindo relatos e correções de bugs, melhorias na documentação, aprimoramentos e ideias.
 
-If you find a bug, open an issue and tell us what you entered, what you expected, and what the script printed. If you want to send a fix, create a branch, test the script, and open a pull request with a short description of the change.
+Se encontrar um erro, abra uma issue contando o que você digitou, qual resultado esperava e o que o script mostrou. Para propor uma mudança, crie uma branch, teste o script e abra um pull request com uma descrição curta do que mudou.
 
-Please follow the [Code of Conduct](CODE_OF_CONDUCT.md).
+Siga o [código de conduta](CODE_OF_CONDUCT.md) ao participar.
