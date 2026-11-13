@@ -1,29 +1,29 @@
-# Code of Conduct
+# Código de conduta
 
-## Our Pledge
+## Nossa promessa
 
-We want everyone to feel welcome contributing to this project, regardless of background, identity, experience, or ability.
+Queremos que qualquer pessoa se sinta bem-vinda para contribuir com o projeto, independentemente de sua origem, identidade, experiência ou habilidade.
 
-## Our Standards
+## Nossos padrões
 
-Be respectful, give constructive feedback, and focus on the work. Harassment, personal attacks, discrimination, and sharing someone's private information without permission are not acceptable.
+Trate as pessoas com respeito, dê feedback construtivo e mantenha o foco no trabalho. Não são aceitos assédio, ataques pessoais, discriminação ou divulgação de informações privadas sem autorização.
 
-## Enforcement Responsibilities
+## Responsabilidades de aplicação
 
-Project maintainers are responsible for reviewing reports, explaining decisions when appropriate, and enforcing these standards fairly.
+As pessoas responsáveis pelo projeto analisam os relatos, explicam as decisões quando apropriado e aplicam estas regras de forma justa.
 
-## Scope
+## Escopo
 
-This code applies in project spaces, including issues and pull requests, and when someone publicly represents the project.
+Estas regras valem nos espaços do projeto, como issues e pull requests, e quando alguém representa o projeto publicamente.
 
-## Enforcement
+## Aplicação
 
-Send reports privately to the repository maintainer using the contact information on their GitHub profile, if available. Do not post personal details in a public issue. Maintainers will handle reports as confidentially as possible.
+Se houver um problema de conduta, procure em particular a pessoa responsável pelo repositório, usando o contato do perfil no GitHub, se estiver disponível. Evite expor dados pessoais em uma issue pública. Os relatos serão tratados com o máximo de confidencialidade possível.
 
-## Enforcement Guidelines
+## Diretrizes de aplicação
 
-Depending on the impact and severity, maintainers may ask for a correction, issue a warning, restrict participation temporarily, or remove access permanently. Serious or repeated conduct can warrant stronger action.
+Dependendo da gravidade e do impacto, a resposta pode incluir um pedido de correção, um aviso, uma restrição temporária ou a remoção permanente do acesso. Casos graves ou repetidos podem exigir medidas mais firmes.
 
-## Attribution
+## Atribuição
 
-The structure is adapted from the [Contributor Covenant, version 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
+A estrutura deste código foi adaptada do [Contributor Covenant, versão 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
