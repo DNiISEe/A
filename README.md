@@ -1,17 +1,19 @@
-# Simple Interest Calculator
+# Calculadora de juros simples
 
-A small Bash script that calculates simple interest from a principal amount, an annual interest rate, and a period in years. It does not compound the interest.
+Um script em Bash que calcula quanto um valor rende em juros simples. Os juros são calculados sempre sobre o valor inicial, sem juros sobre juros.
 
-Run it with:
+## Como usar
 
 ```bash
 bash simple-interest.sh
 ```
 
-Enter the principal, the annual rate as a percentage (use 5 for 5%), and the number of years. The script prints the interest rounded to two decimal places.
+Informe o valor inicial, a taxa anual em porcentagem e o prazo em anos. Digite `5` para uma taxa de 5% e use ponto se precisar informar um valor decimal, como `1.5` ano.
 
-Formula: `interest = principal × annual rate × years / 100`
+A fórmula é `juros = valor inicial × taxa anual × prazo / 100`.
 
-For example, a principal of 1000 at 5% per year for 2 years earns 100.00 in simple interest.
+Por exemplo, um valor inicial de 1000, com taxa de 5% ao ano por 2 anos, rende **100.00** em juros simples. O script mostra apenas os juros, não o valor total.
 
-Licensed under Apache 2.0. See [LICENSE](LICENSE).
+## Licença
+
+Apache 2.0. Consulte o arquivo [LICENSE](LICENSE).
