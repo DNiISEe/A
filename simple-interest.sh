@@ -1,15 +1,15 @@
 #!/usr/bin/env bash
 
-read -r -p "Principal amount: " principal || exit 1
-read -r -p "Annual interest rate (%): " rate || exit 1
-read -r -p "Time in years: " years || exit 1
+read -r -p "Valor inicial: " principal || exit 1
+read -r -p "Taxa anual de juros (%): " rate || exit 1
+read -r -p "Prazo em anos: " years || exit 1
 
 for value in "$principal" "$rate" "$years"; do
     if [[ ! $value =~ ^([0-9]+([.][0-9]+)?|[.][0-9]+)$ ]]; then
-        printf '%s\n' "Enter non-negative numbers. Use a dot for decimals." >&2
+        printf '%s\n' "Digite números não negativos. Use ponto para separar as casas decimais." >&2
         exit 1
     fi
 done
 
 LC_ALL=C awk -v p="$principal" -v r="$rate" -v t="$years" \
-    'BEGIN { printf "Simple interest: %.2f\n", p * r * t / 100 }'
+    'BEGIN { printf "Juros simples: %.2f\n", p * r * t / 100 }'
